@@ -1,0 +1,18 @@
+CREATE_FUNCTIONAL_TESTS_BOX_KEY=true
+ENVIRONMENT_NAME_FIELD_KEY=Default  Environment
+ISSUE_TRACKING_TAGS=<?xml version\="1.0" encoding\="utf-8"?><properties document_version\="1.0"/>
+REST_DEF_URL_KEYRAML=http\://api.e-bookmobile.com/books/Stiff
+REST_DEF_URL_KEYSwagger=http\://ec2-52-39-220-171.us-west-2.compute.amazonaws.com\:8080/bob-service-customer-1.0.0-SNAPSHOT/swagger-ui.html\#/customer-controller
+SOURCE_BUTTON_GROUP_KEY=Add a new environment
+WADL_COMBO_BOX_KEY=http\://search.yahooapis.com/WebSearchService/V1/contextSearch.wadl
+chrome.executable.path.key=C\:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe
+com.parasoft.xtest.checkers.api.version=1
+eclipse.preferences.version=1
+firefox.executable.path.key=C\:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe
+grs.autoconf.attempted=true
+grs.preferences.version=1
+grs.project.center.default.user.name=true
+grs.project.center.user.name=amihan001c
+ie.executable.path.key=C\:\\Program Files\\Internet Explorer\\IEXPLORE.EXE
+record.types.radio.group.key=Internet Explorer
+team.preferences.version=1

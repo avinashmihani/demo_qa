@@ -1,0 +1,1 @@
+[ERROR] [13:50:30,129] main com.parasoft.xtest.checkers.api.rules.RulesCore: URL is nul in rule provider com.parasoft.xtest.execution.eclipse.core.web.checker
